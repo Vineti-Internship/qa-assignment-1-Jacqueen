@@ -1,0 +1,7 @@
+1)	Test scenario: calculator of shipping.
+
+Test case1: (For USA, China and Great Britain) only check Writing a negative number/letter(invalid) as the weight.
+Test case2: (For USA, China and Great Britain) only check Inputting valid value for the weight.
+Test case3: Check if the country we choose can actually change the value of the shipping (as USA, China and Great Britain only consider the actual weight not the volumetric weight).
+Test case4: For calculating the volumetric weight check if the numbers of the height, width and length are valid.
+Test case5: Check the case if the width, length and height are invalid numbers (or one of them is invalid/negative).
